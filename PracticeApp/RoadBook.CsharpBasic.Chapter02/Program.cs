@@ -48,12 +48,11 @@ namespace RoadBook.CsharpBasic.Chapter02
 
             Console.WriteLine("Ex012");
             Examples.Ex012 ex012 = new Examples.Ex012();
-            ex012.Run();*/
+            ex012.Run();
 
             Console.WriteLine("works1");
             Works.practice1 prac1 = new Works.practice1();
-            prac1.works001();
-
+            prac1.works001();*/
         }
     }
 }

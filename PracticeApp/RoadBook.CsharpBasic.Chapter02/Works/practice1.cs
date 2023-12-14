@@ -40,7 +40,15 @@ namespace RoadBook.CsharpBasic.Chapter02.Works
 
         public void work002()
         {
+            Console.WriteLine("첫번째 숫자를 입력해주세요");
+            int input1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("두번째 숫자를 입력해주세요");
+            int input2 = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("두 값의 합은 {0}", input1 + input2);
+            Console.WriteLine("두 값의 합은 {0}", input1 - input2);
+            Console.WriteLine("두 값의 합은 {0}", input1 * input2);
+            Console.WriteLine("두 값의 합은 {0}", input1 / input2);
         }
     }
 }

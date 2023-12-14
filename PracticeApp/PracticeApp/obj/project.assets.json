@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\doms\\Documents\\sero\\c#prac\\백견\\PracticeApp\\PracticeApp\\PracticeApp.csproj",
+      "projectUniqueName": "C:\\Users\\doms\\Documents\\sero\\c#prac\\roadbook\\PracticeApp\\PracticeApp\\PracticeApp.csproj",
       "projectName": "PracticeApp",
-      "projectPath": "C:\\Users\\doms\\Documents\\sero\\c#prac\\백견\\PracticeApp\\PracticeApp\\PracticeApp.csproj",
+      "projectPath": "C:\\Users\\doms\\Documents\\sero\\c#prac\\roadbook\\PracticeApp\\PracticeApp\\PracticeApp.csproj",
       "packagesPath": "C:\\Users\\doms\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\doms\\Documents\\sero\\c#prac\\백견\\PracticeApp\\PracticeApp\\obj\\",
+      "outputPath": "C:\\Users\\doms\\Documents\\sero\\c#prac\\roadbook\\PracticeApp\\PracticeApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
